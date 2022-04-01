@@ -30,9 +30,11 @@
 ### Tax
 #### Acts & Regulations
 - [Tax Laws (Amendment) Act, No. 2 of 2020 - KENYA GAZETTE No. 56 (Acts No. 2)](http://kenyalaw.org/kl/fileadmin/pdfdownloads/AmendmentActs/2020/TaxLaws_Amendment_Act_No.2of2020.pdf)
+- [Highlights of The Tax Laws (Ammendment) Act, 2020 - Tax Bulletin Special Issue, April 2020](https://kra.go.ke/images/publications/TAX-BULLETIN-SPECIAL-ISSUE-APRIL-2020.-1.pdf)
 - [Value Added Tax Act No. 35 of 2013](https://www.kra.go.ke/images/publications/ValueAddedTax_ActNo35of2013.pdf)
 - [Common External Tariff 2007 - East African Community](https://infotradekenya.go.ke/media/EAC%20Externaltariff2007-3.pdf)
 - [Finance Act, 2021 - Kenya Gazette Supplement No.128 (Acts No.8)](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2021/TheFinanceAct_No.8of2021.pdf)
+
 
 #### Commented
 - [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by Grant Thornton](https://www.grantthornton.co.ke/globalassets/1.-member-firms/kenya/insights/pdf/grant-thornton-alert---the-tax-laws-amendment-act-2020---final.pdf)
