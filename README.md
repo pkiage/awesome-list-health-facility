@@ -2,6 +2,7 @@
 ## Kenya
 - [The Health Laws (Amendment) Act 2019](https://kmpdc.go.ke/resources/HealthLaws__AmendmentActNo.5of2019.pdf)
 - [NORMS AND STANDARDS For Health Service Delivery](http://guidelines.health.go.ke:8000/media/Norms_and_Standards_for_Health_Service_Delivery_2006.pdf)
+- [Kenya Primary Health Care Strategic Framework 2019-2025](https://www.health.go.ke/wp-content/uploads/2020/07/Kenya-Primary-Healthcare-Strategic-Framework-Signed.pdf)
 
 ### Levels
 - [Checklist for assessing quality of healthcare](https://www.health.go.ke/wp-content/uploads/2021/10/KQMH-Dispensary-Checklist-for-Assessing-Quality-of-Care.pdf)
@@ -28,12 +29,15 @@
 - [Level 6B (National Tertiary Referral and Teaching Hospitals and Hospitals/National Tertiary Referral and Teaching Faith Based Hospital) - Checklist](https://kmpdc.go.ke/resources/level6B.pdf)
 
 ### Tax
+- [Types of Tax in Kenya](https://www.kra.go.ke/en/business/societies/paying-taxes/societies-types-of-taxes)
+
 #### Acts & Regulations
 - [Tax Laws (Amendment) Act, No. 2 of 2020 - KENYA GAZETTE No. 56 (Acts No. 2)](http://kenyalaw.org/kl/fileadmin/pdfdownloads/AmendmentActs/2020/TaxLaws_Amendment_Act_No.2of2020.pdf)
 - [Highlights of The Tax Laws (Ammendment) Act, 2020 - Tax Bulletin Special Issue, April 2020](https://kra.go.ke/images/publications/TAX-BULLETIN-SPECIAL-ISSUE-APRIL-2020.-1.pdf)
 - [Value Added Tax Act No. 35 of 2013](https://www.kra.go.ke/images/publications/ValueAddedTax_ActNo35of2013.pdf)
 - [Common External Tariff 2007 - East African Community](https://infotradekenya.go.ke/media/EAC%20Externaltariff2007-3.pdf)
 - [Finance Act, 2021 - Kenya Gazette Supplement No.128 (Acts No.8)](http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2021/TheFinanceAct_No.8of2021.pdf)
+- [Customs and Excise Act - CAP 472 Rev.2010](https://infotradekenya.go.ke/media/Customs%20Act%202010_1.pdf)
 
 
 #### Commented
