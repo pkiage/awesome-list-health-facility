@@ -10,8 +10,8 @@
 [Categorization of health institutions](https://kmpdc.go.ke/resources/10.%20Presentation%20on%20Categorization%20of%20Health%20Institutions.pdf)
 
 #### Level 2
-[Level 2](https://kmpdc.go.ke/resources/level2.pdf)
-[Level 2 (Medical Clinic, Dental Clinic, Dispensary/faith-Based Dispensary, Mobile Clinic or Eye Clinic) - Checklist]
+[Level 2](http://guidelines.health.go.ke:8000/media/Q_Level2_Standards.pdf)
+[Level 2 (Medical Clinic, Dental Clinic, Dispensary/faith-Based Dispensary, Mobile Clinic or Eye Clinic) - Checklist](https://kmpdc.go.ke/resources/level2.pdf)
 
 #### Level 3
 [Level 3](http://guidelines.health.go.ke:8000/media/Q_Level3_Standards.pdf)
