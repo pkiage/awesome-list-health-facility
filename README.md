@@ -32,7 +32,7 @@
 
 [Level 6B (National Tertiary Referral and Teaching Hospitals and Hospitals/National Tertiary Referral and Teaching Faith Based Hospital) - Checklist](https://kmpdc.go.ke/resources/level6B.pdf)
 
-## Tax
+### Tax
 [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by Grant Thornton](https://www.grantthornton.co.ke/globalassets/1.-member-firms/kenya/insights/pdf/grant-thornton-alert---the-tax-laws-amendment-act-2020---final.pdf)
 
 [The Tax Laws (Amendendment) Act, No.2 of 2020 - with comments by Deloitte](https://www2.deloitte.com/content/dam/Deloitte/ke/Documents/tax/Tax%20Laws%20Amendment%20Act%202020.pdf)
