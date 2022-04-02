@@ -1,4 +1,15 @@
 # Health Facilities
+
+## Standards & guidelines
+### Safe Hospitals
+[Safe Hospitals - PAHO & WHO](https://www.paho.org/en/health-emergencies/safe-hospitals)
+
+[Hospitals Safe from Disasters Evaluation of small and medium-sized health facilities](https://www.paho.org/disasters/dmdocuments/HSI_SmallMediumFac.pdf)
+
+[HOSPITAL SAFETY INDEX EVALUATION FORMS](https://www.who.int/hac/techguidance/preparedness/hospital_safety_index_forms.pdf?ua=1)
+
+[Hospital Safety Index Guide for Evaluators](https://www.paho.org/disasters/dmdocuments/HSI_EvGuide.pdf)
+
 ## Kenya
 - [The Health Laws (Amendment) Act 2019](https://kmpdc.go.ke/resources/HealthLaws__AmendmentActNo.5of2019.pdf)
 - [NORMS AND STANDARDS For Health Service Delivery](http://guidelines.health.go.ke:8000/media/Norms_and_Standards_for_Health_Service_Delivery_2006.pdf)
